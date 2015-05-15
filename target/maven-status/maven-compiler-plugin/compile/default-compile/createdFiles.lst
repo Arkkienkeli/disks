@@ -1,0 +1,10 @@
+entity\User.class
+config\WebConfig.class
+dao\DisksDAO.class
+entity\Disk.class
+SpringWebAppInitializer.class
+config\SecurityConfig.class
+config\SecurityWebApplicationInitializer.class
+entity\TakenItem.class
+dao\IDisksDao.class
+controller\MainController.class
